@@ -1,5 +1,3 @@
----
-
 # Hacker-News-Post-Analysis
 
 ## Overview
@@ -188,6 +186,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 
 - [Dataquest](https://www.dataquest.io/) for providing the dataset and the guided project.
-
----
-
